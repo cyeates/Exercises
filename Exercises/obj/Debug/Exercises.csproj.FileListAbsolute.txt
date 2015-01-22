@@ -1,0 +1,7 @@
+C:\Users\cyeates\Documents\GitHub\Exercises\Exercises\obj\Debug\Exercises.csprojResolveAssemblyReference.cache
+C:\Users\cyeates\Documents\GitHub\Exercises\Exercises\bin\Debug\Exercises.dll
+C:\Users\cyeates\Documents\GitHub\Exercises\Exercises\bin\Debug\Exercises.pdb
+C:\Users\cyeates\Documents\GitHub\Exercises\Exercises\bin\Debug\nunit.framework.dll
+C:\Users\cyeates\Documents\GitHub\Exercises\Exercises\bin\Debug\nunit.framework.xml
+C:\Users\cyeates\Documents\GitHub\Exercises\Exercises\obj\Debug\Exercises.dll
+C:\Users\cyeates\Documents\GitHub\Exercises\Exercises\obj\Debug\Exercises.pdb
