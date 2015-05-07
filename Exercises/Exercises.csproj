@@ -42,8 +42,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Codility2_1.cs" />
+    <Compile Include="CodilityFrog.cs" />
+    <Compile Include="DoesStringHaveUniqueCharacters.cs" />
+    <Compile Include="FootballWeights.cs" />
     <Compile Include="GreatestProductInGrid\GreatestProductInGridCalculator.cs" />
     <Compile Include="GreatestProductInGrid\GreatestProductInGridTests.cs" />
+    <Compile Include="IsAnagram.cs" />
+    <Compile Include="MinIntNotInArray.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
